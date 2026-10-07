@@ -92,7 +92,7 @@ npm run dev
 ## 👤 Author
 
 **Subham**
-* GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+* GitHub: [@Subham220326](https://github.com/subham220326)
 
 ---
 
